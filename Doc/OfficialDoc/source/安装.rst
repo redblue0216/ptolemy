@@ -1,0 +1,8 @@
+====
+安装
+====
+Ptolemy采用Python开发，得益于Python良好的社区环境，安装支持Pythonic风格的各种管理器。
+
+.. code-block:: Bash
+	
+	$pip install -i http://10.3.110.71:8080 --trusted-host10.3.110.71 Ptolemy

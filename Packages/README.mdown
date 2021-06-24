@@ -1,0 +1,11 @@
+# Ptolelmy
++ 简介
+Ptolemy是一个基于时序数据库构建的一个算法运行监控和数据采集工具
++ 主要技术
+（1）InfluxDB
+（2）type
+（3）__new__
++ 安装
+```
+pip install -i http://10.3.110.71:8080 --trusted-host 10.3.110.71 Ptolemy
+```
